@@ -1,0 +1,6 @@
+[submodule "telegram-data-collection"]
+	path = telegram-data-collection
+	url = https://github.com/SanGreel/telegram-data-collection.git
+[submodule "telegram-dialogs-analysis-v2"]
+	path = telegram-dialogs-analysis-v2
+	url = https://github.com/74R45/telegram-dialogs-analysis-v2.git
