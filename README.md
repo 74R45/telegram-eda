@@ -4,6 +4,8 @@ In this project I collected all of my Telegram messaging data, and then performe
 
 This is the course project for Computational Social Science 2022 course.
 
+See [telegram_eda_presentation.pdf](telegram_eda_presentation.pdf) if you want to quickly get an idea of my final results and the steps I took to achieve them.
+
 ## *Structure*
 
 1. [telegram-data-collection](https://github.com/SanGreel/telegram-data-collection)
